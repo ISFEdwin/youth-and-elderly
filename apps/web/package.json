@@ -1,0 +1,12 @@
+{
+  "name": "@vantage/web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Phase 1 web planning scaffold for Vantage",
+  "scripts": {
+    "dev": "echo 'Web app scaffold created; implementation in progress'",
+    "lint": "echo 'Lint not configured yet for @vantage/web'",
+    "test": "echo 'Test not configured yet for @vantage/web'",
+    "build": "echo 'Build not configured yet for @vantage/web'"
+  }
+}
