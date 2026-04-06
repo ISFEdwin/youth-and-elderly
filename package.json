@@ -1,0 +1,14 @@
+{
+  "name": "vantage-monorepo",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "echo 'No lint tooling configured yet'",
+    "test": "echo 'No test tooling configured yet'",
+    "build": "echo 'No build tooling configured yet'"
+  }
+}

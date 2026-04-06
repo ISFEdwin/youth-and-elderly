@@ -1,0 +1,6 @@
+{
+  "name": "@vantage/design-tokens",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Shared web design tokens for Classic and Pulse themes"
+}
