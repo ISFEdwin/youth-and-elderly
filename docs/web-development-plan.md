@@ -36,6 +36,7 @@
 - Pricing
 - FAQ
 - Contact
+- Route map scaffold added in `apps/web/src/ia/routes.ts` (`publicPageRoutes`, `audienceCtaRoutes`)
 
 ### Authenticated Areas by Role
 - Senior: appointments, lessons hosted, wallet, profile, guardian settings
