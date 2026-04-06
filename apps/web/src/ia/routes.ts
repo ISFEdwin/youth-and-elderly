@@ -30,7 +30,7 @@ export const publicPageRoutes: PublicPageRoute[] = [
   { name: 'Pricing', path: '/pricing', includeInPrimaryNav: true },
   { name: 'FAQ', path: '/faq', includeInPrimaryNav: true },
   { name: 'Contact', path: '/contact', includeInPrimaryNav: true }
-] as const;
+];
 
 export const audienceCtaRoutes = {
   seniors: '/for-seniors#start',
